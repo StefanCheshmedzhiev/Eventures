@@ -1,0 +1,11 @@
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Domain.dll
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Data.deps.json
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Data.dll
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Data.pdb
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Domain.pdb
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.csproj.CopyComplete
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.dll
+C:\Users\Stefan\Desktop\csharp-web-master\2019-May-Season\ASP-NET-Core\02. ASP-NET-Core-Application-Flow\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.pdb
